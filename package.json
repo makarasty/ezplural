@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/makarasty/ez-plural.git"
+    "url": "git+https://github.com/makarasty/ezplural.git"
   },
   "keywords": [
-	"word",
+    "word",
     "words",
-	"numbers",
-	"plurality",
-	"plural-words",
-	"plural-numbers",
+    "numbers",
+    "plurality",
+    "plural-words",
+    "plural-numbers",
     "pluralize",
     "plural",
     "pluralization",
@@ -30,7 +30,7 @@
   "license": "MIT",
   "types": "./index.d.ts",
   "bugs": {
-    "url": "https://github.com/makarasty/ez-plural/issues"
+    "url": "https://github.com/makarasty/ezplural/issues"
   },
-  "homepage": "https://github.com/makarasty/ez-plural#readme"
+  "homepage": "https://github.com/makarasty/ezplural#readme"
 }
