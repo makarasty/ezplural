@@ -1,6 +1,6 @@
 /**
  * @param {number} num 
- * @returns {1|2|3}
+ * @returns {0|1|2}
  */
 function getPluralFormPackIndex(num) {
 	switch (true) {
