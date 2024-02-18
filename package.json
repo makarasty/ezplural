@@ -1,36 +1,36 @@
 {
-  "name": "ezplural",
-  "version": "1.0.0",
-  "description": "Easy Node.js module that, generates grammatically messages based on numeric input. Extensible, supports localization. Fast performance.",
-  "main": "index.js",
-  "scripts": {
-    "test": "node ../example.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/makarasty/ezplural.git"
-  },
-  "keywords": [
-    "word",
-    "words",
-    "numbers",
-    "plurality",
-    "plural-words",
-    "plural-numbers",
-    "pluralize",
-    "plural",
-    "pluralization",
-    "noun",
-    "easy-to-use",
-    "fast",
-    "fast-performance",
-    "fast-pluralization"
-  ],
-  "author": "MaKarastY",
-  "license": "MIT",
-  "types": "./index.d.ts",
-  "bugs": {
-    "url": "https://github.com/makarasty/ezplural/issues"
-  },
-  "homepage": "https://github.com/makarasty/ezplural#readme"
+	"name": "ezplural",
+	"version": "1.0.0",
+	"description": "Easy Node.js module that, generates grammatically messages based on numeric input. Extensible, supports localization. Fast performance.",
+	"main": "index.js",
+	"scripts": {
+		"test": "node ../example.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/makarasty/ezplural.git"
+	},
+	"keywords": [
+		"word",
+		"words",
+		"numbers",
+		"plurality",
+		"plural-words",
+		"plural-numbers",
+		"pluralize",
+		"plural",
+		"pluralization",
+		"noun",
+		"easy-to-use",
+		"fast",
+		"fast-performance",
+		"fast-pluralization"
+	],
+	"author": "MaKarastY",
+	"license": "MIT",
+	"types": "./index.d.ts",
+	"bugs": {
+		"url": "https://github.com/makarasty/ezplural/issues"
+	},
+	"homepage": "https://github.com/makarasty/ezplural#readme"
 }
