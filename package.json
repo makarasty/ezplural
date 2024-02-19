@@ -1,6 +1,6 @@
 {
 	"name": "ezplural",
-	"version": "1.0.0h",
+	"version": "1.0.0h1",
 	"description": "Easy Node.js module that, generates grammatically messages based on numeric input. Extensible, supports localization. Fast performance.",
 	"main": "index.js",
 	"scripts": {
