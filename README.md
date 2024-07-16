@@ -1,5 +1,5 @@
 # ezplural
-💭 Easy Node.js module that, generates grammatically messages based on numeric input. Extensible, supports localization. Fast performance.
+💭 A lightweight Node.js module that dynamically generates grammatically correct messages based on numerical input. It's designed to be easily extensible and supports localization. The module prioritizes fast performance for efficient processing
 # Install
 `npm i ezplural`
 # Example 0
