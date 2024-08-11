@@ -1,6 +1,6 @@
 {
 	"name": "ezplural",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"description": "Easy Node.js module that, generates grammatically messages based on numeric input. Extensible, supports localization. Fast performance.",
 	"main": "index.js",
 	"scripts": {
@@ -32,5 +32,8 @@
 	"bugs": {
 		"url": "https://github.com/makarasty/ezplural/issues"
 	},
-	"homepage": "https://github.com/makarasty/ezplural#readme"
+	"homepage": "https://github.com/makarasty/ezplural#readme",
+	"dependencies": {
+		"ezplural": "file:"
+	}
 }
